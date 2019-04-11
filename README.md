@@ -1,4 +1,2 @@
 # sb-hello-world.
 
-
-mjbefh
