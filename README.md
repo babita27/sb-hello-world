@@ -1,5 +1,1 @@
 # sb-hello-world
-
-
-
-nvdhf
