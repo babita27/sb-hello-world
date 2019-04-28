@@ -22,7 +22,7 @@ public class HelloController {
 
 		Employee emp = new Employee();
 		emp.setName("emp1");
-		emp.setDesignation("manager");
+		emp.setDesignation("manager")
 		emp.setEmpId("1");
 		emp.setSalary(3000);
 
